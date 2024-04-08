@@ -27,6 +27,7 @@
 				["Dribbble", "/providers/dribbble"],
 				["Dropbox", "/providers/dropbox"],
 				["Facebook", "/providers/facebook"],
+				["Feide", "/providers/feide"],
 				["Figma", "/providers/figma"],
 				["GitHub", "/providers/github"],
 				["GitLab", "/providers/gitlab"],
